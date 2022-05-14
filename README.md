@@ -5,3 +5,5 @@ code is inside it.
 
 # jdbcStudy.sql
 some sql files.
+# jdbc_jar
+some useful jar packages.
